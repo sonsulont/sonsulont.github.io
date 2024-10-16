@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sonsulont.github.io/sitemap.html.gz
+Sitemap: https://sonsulont.github.io/app/sitemap.html.gz
+Sitemap: https://sonsulont.github.io/assets/sitemap.html.gz
+Sitemap: https://sonsulont.github.io/css/sitemap.html.gz
+Sitemap: https://sonsulont.github.io/includes/sitemap.html.gz
+Sitemap: https://sonsulont.github.io/item/sitemap.html.gz
+Sitemap: https://sonsulont.github.io/src/sitemap.html.gz
